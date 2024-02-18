@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <p> This is a <br> paragraph with a line break. </p>
+    <p> This is <br> another paragraph <br> with more <br> line breaks. </p>
+  </body>
+</html>
